@@ -2,7 +2,7 @@ package pedro;
 
 public class OddOrEven {
     public static void main(String[] args) {
-
+//Week 1 Q 1
         identify(3);
 
     }
