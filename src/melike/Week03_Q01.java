@@ -6,21 +6,22 @@ public class Week03_Q01 {
 
 
         System.out.println(isPrime(6));
-
+        System.out.println(isPrime(7));
     }
+    public static boolean isPrime(int n){
 
-    public static boolean isPrime(int number){
-
-        if(number > 2){
+        if(n <2 ){
             return false;
         }
 
-        for(int i = 0; i < number; i++){
-            return false;
+        for(int i = 2; i < n; i++){
+
+            if(n % i == 0){
+                return false;
+            }
         }
 
         return true;
-
     }
 }
 
