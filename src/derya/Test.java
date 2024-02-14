@@ -1,9 +1,9 @@
-package melike;
+package derya;
 
 public class Test {
 
     public static void main(String[] args) {
 
-        // I am trying my best
+        // Hello class
     }
 }
