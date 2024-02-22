@@ -26,6 +26,8 @@ public class Week2_Q03 {
                 result += "Coders";
             }
             System.out.println(result.isEmpty() ? i : result);
+
+           
         }
 
     }
