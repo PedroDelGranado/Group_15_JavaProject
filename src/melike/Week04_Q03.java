@@ -1,6 +1,6 @@
 package melike;
 
-public class Week05_Q03 {
+public class Week04_Q03 {
 
     public static void main(String[] args) {
 
